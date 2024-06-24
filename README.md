@@ -1,3 +1,4 @@
+This is what I explored and worked with new SOMOS dataset during my Independent Project at MIDAS Lab
 
 [Data and pretrained models on Zenodo](https://zenodo.org/records/8409156)
 
